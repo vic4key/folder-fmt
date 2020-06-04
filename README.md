@@ -10,7 +10,7 @@ Folder Format - Create folder with the name formated by Date Time
 >2. Run the file `Register.reg` and choose YES to apply settings into Registry.2. 
 
 #### Screenshots ####
-![](demo.png)
+![](DEMO.JPG)
 
 ---
 
