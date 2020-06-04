@@ -6,8 +6,10 @@ Folder Format - Create folder with the name formated by Date Time
 
 #### Installation ####
 
->1. Copy this folder `Folders` to C drive. After copied, its path will be `C:\Folders`.
->2. Run the file `Register.reg` and choose YES to apply settings into Registry.2. 
+>1. Install `WinRAR` from [rarlab.com](https://www.rarlab.com/)
+>2. Run `SFX.CMD` to create the setup file `.exe`
+>3. Install the setup file `.exe`
+>4. Enjoy
 
 #### Screenshots ####
 ![](DEMO.JPG)
