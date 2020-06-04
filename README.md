@@ -2,6 +2,8 @@
 
 Folder Format - Create folder with the name formated by Date Time
 
+---
+
 #### Installation ####
 
 >1. Copy this folder `Folders` to C drive. After copied, its path will be `C:\Folders`.
@@ -9,5 +11,7 @@ Folder Format - Create folder with the name formated by Date Time
 
 #### Screenshots ####
 ![](demo.png)
+
+---
 
 Website: https://vic.onl/
